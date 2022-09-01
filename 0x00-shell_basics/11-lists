@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . -mal .. -mal /boot
+ls -la . -mal .. -mal/boot
